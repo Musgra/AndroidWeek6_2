@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidWeek6</string>
+    <string name="de_xuat_cho_ban">Đề xuất cho bạn</string>
+    <string name="ung_dung_tra_phi">Ứng dụng trả phí</string>
+    <string name="tro_choi">Trò chơi</string>
+    <string name="giao_duc">Giáo dục</string>
+</resources>
